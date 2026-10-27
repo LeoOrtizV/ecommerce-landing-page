@@ -49,7 +49,7 @@ To view and run this project locally, simply follow these steps:
 
 **Leonardo Yeret Ortiz Valle**
 * Systems Engineering Student & AI Specialist
-* [GitHub](https://github.com/LeoOrtizV) | [LinkedIn](https://www.linkedin.com)
+* [GitHub](https://github.com/LeoOrtizV) | [LinkedIn](https://www.linkedin.com/in/leonardo-yeret-ortiz-valle-092346345/)
 
    
 
